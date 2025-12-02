@@ -1,0 +1,12 @@
+venue,radius_m,radius_miles,category,count
+Mercedes-Benz Stadium,804.67,0.5,Cafe,1
+Mercedes-Benz Stadium,804.67,0.5,Retail,1
+Mercedes-Benz Stadium,1609.34,1.0,Cafe,1
+Mercedes-Benz Stadium,1609.34,1.0,Retail,1
+State Farm Arena,804.67,0.5,Cafe,1
+State Farm Arena,804.67,0.5,Retail,1
+State Farm Arena,1609.34,1.0,Cafe,1
+State Farm Arena,1609.34,1.0,Retail,1
+Bobby Dodd Stadium,804.67,0.5,__ALL__,0
+Bobby Dodd Stadium,1609.34,1.0,Cafe,1
+Bobby Dodd Stadium,1609.34,1.0,Retail,1
